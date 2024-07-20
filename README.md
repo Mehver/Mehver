@@ -49,5 +49,5 @@
 </table>
 		    
 ```java
-if (homework.type == plagiarised) score = score * 0;
+if (assignment.type == plagiarised) score = score * 0;
 ```
