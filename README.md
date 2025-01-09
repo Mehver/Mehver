@@ -2,7 +2,7 @@
 <tbody>
     <tr width="100%">
         <td>
-            <strong>Hi!👋 I'm <code>Mehver</code>.</strong> (PKA <code>TitanRGB</code> <code>SynthesisDu</code>)<br/>
+            <strong>Hi!👋 I'm <code>Mehver</code>.</strong>
             <p>Studying CSE at Michigan State University, project-based learner.</br>密歇根州立大学CS学生，为了自学做做项目。
 	    </br>Most works were made during high school, so be tolerant plz.
 	</p>
